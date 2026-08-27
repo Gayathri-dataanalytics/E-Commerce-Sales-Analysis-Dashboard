@@ -145,7 +145,7 @@ Dashboard Preview:
 
 The project includes an Excel dashboard that presents the key KPIs and analysis in a visual format.
 You can add a screenshot of your dashboard to this section:
-![E-Commerce Sales Dashboard](dashboard.png)
+![E-Commerce-Sales-Analysis-Dashboard](dashboard.png)
 
 Business Value:
 
