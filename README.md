@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-Dashboard
+ E-Commerce-Sales-Analysis-Dashboard
 Interactive E-Commerce Sales Analysis Dashboard using Microsoft Excel.
 Project Overview:
 
@@ -24,7 +24,7 @@ Key KPIs:
 KPI	Value
 Total Sales	₹24,98,200
 Total Orders / Quantity	150
-Total Customers	49
+Total Customers	48
 Average Order Value	₹16,654.67
 
 Dataset Information
@@ -133,7 +133,7 @@ Key Insights:
 
 Based on the analysis:
 The business generated ₹24.98 lakh in total sales.
-The dataset contains 150 transactions from 49 customers.
+The dataset contains 150 transactions from 48 customers.
 The calculated Average Order Value is ₹16,654.67.
 Electronics, Fashion, and Home & Kitchen products were analyzed to compare category performance.
 Multiple cities were compared to understand geographical sales distribution.
